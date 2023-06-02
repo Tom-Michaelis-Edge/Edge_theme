@@ -1,0 +1,10 @@
+Package: edge.theme
+Type: Package
+Title: Edge ggplot theme 
+Version: 0.1.0
+Authors@R: person("Tom", "Michaelis", email = "tom.michaelis@edgehealth.co.uk",
+                  role = c("aut", "cre"))
+Description: This package is an example R package.
+Encoding: UTF-8
+LazyData: true
+imports: ggplot
